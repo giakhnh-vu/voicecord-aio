@@ -1,0 +1,25 @@
+{
+  "default": {
+    "status": "online",
+    "guild_id": "1192469446334369863",
+    "channel_id": "1192857338969870407",
+    "self_mute": false
+  },
+  "profiles": [{
+    "enabled": false,
+    "custom": false,
+    "token": "NzA0OTY3NjcwMTQ3MDU1Njg2.GhAfyQ.NZ0nsX5Qh8IL0ZrE_D22A_qn3cv5uMd0QLF0YA"
+  }, {
+    "enabled": true,
+    "custom": false,
+    "token": "OTk4ODQ1NjA2MzAwNzYyMTQy.GOJyBM.mKHB4PyAK86iqNfL0W0oedFOsyjtDx-oM3MVSA"
+  }, {
+    "enabled": true,
+    "custom": false,
+    "token": "OTkxNTgwNjg1MjA0NzM4MTIw.GZId24.thJcK0gQQDgz1irvWsslHJm3iuPKZb1FJmIxwQ"
+  }, {
+    "enabled": true,
+    "custom": false,
+    "token": "MTAyOTc4ODU4MjUyNjg1NzIxNg.GVCcBI.W9oAKRC-nehUCcuY2OSFmRRMyPqhYJp7aeqtWw"
+  }]
+}
